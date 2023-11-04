@@ -1,0 +1,32 @@
+Representative name for the entity: 07/30/1999
+Entity type: DATE
+year: 1999
+day: 30
+month: 7
+Mention text: 07/30/1999
+Mention type: TYPE_UNKNOWN
+Probability score: 1.0
+Representative name for the entity: 07
+Entity type: NUMBER
+value: 7
+Mention text: 07
+Mention type: TYPE_UNKNOWN
+Probability score: 1.0
+Representative name for the entity: 30
+Entity type: NUMBER
+value: 30
+Mention text: 30
+Mention type: TYPE_UNKNOWN
+Probability score: 1.0
+Representative name for the entity: 1999
+Entity type: NUMBER
+value: 1999
+Mention text: 1999
+Mention type: TYPE_UNKNOWN
+Probability score: 1.0
+Representative name for the entity: Los Angeles
+Entity type: LOCATION
+Mention text: Los Angeles
+Mention type: PROPER
+Probability score: 0.9269999861717224
+Language of the text: en
